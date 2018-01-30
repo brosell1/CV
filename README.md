@@ -1,2 +1,3 @@
-# CV
-CV for Ben Rosell, written in Markdown.
+# Ben Rosell
+## About me
+
