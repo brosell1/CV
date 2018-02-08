@@ -24,6 +24,7 @@ I’m a trainee full stack Javascript developer and a member of the first cohort
 ### [Stagger](https://github.com/brosell1/Stagger)
 * Final project at the school of code bootcamp - worked with a partner to create a social media scheduling app, using natural language API to auto-generate tags.
 * Front end developed with React, back end with Node.
+* A recording of my team's presentation of Stagger can be found [here.](https://youtu.be/tn9QGHHeCKE)
 ### [Railsbank Openbankhack17](https://github.com/brosell1/openBankHack17)
 * A business banking app using a React frontend and a complex third-party API.
 * Won the award for best teamwork.
