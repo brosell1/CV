@@ -1,24 +1,48 @@
 # Ben Rosell
 ## About me
-I’m a trainee full stack Javascript developer and a member of the first cohort of the School Of Code bootcamp. The learning curve has been very steep and I have enjoyed encountering new concepts every week. I began learning React and Redux about half way through the bootcamp and I took to it very quickly, working on a variety of React projects to improve my skills. My skillset is very diverse, with experience working in industries ranging from hospitality to social media and digital marketing.
+I’m a front end Javascript developer with four years experience working in the software industry. I was a member of the first cohort of the School of Code bootcamp and have since worked for Packt and X2X, in the publishing and film industries, respectively.
 
 ## Key Skills
 ### Languages
+* React
+* Redux
+* Redux Toolkit
+* RXJS
+* Jest
+* Angular
+* AngularJS
+* Electron
+* SCSS
+* Styled Components
 * HTML
-* CSS
 * JavaScript
-* React JS
 * Node JS
-* MongoDB
-* Gamemaker Language (GML)
-### Other Experience
-* Agile
-* Github
-* Kickstarter
-* Buffer
-* Social Media
-* Digital Advertising
-* Slack
+
+## Work Experience
+### X2X Media Group - Software Engineer
+### June 2020 - Present
+* Worked with a small team to develop green field multimedia player project.
+* Built a video player with VideoJS for Chrome and Safari.
+* Built a desktop app using Electron.
+* Practised test driven development with Jest.
+* Prototyped software for future projects.
+### Packt Publishing: Junior Software Engineer
+### March 2018 - June 2020
+* Assisted with the continuous delivery of a subscription app.
+* Developed software to integrate with an eCommerce platform.
+* Maintained legacy app with AngularJS.
+* Worked with UX designer to develop prototypes.
+### School of Code Bootcamp
+### August 2017 - January 2018
+* Used Agile methodology to complete projects and build effective teams.
+* Used pair programming and Scrum project management to improve code and develop soft skills.
+* Learned JavaScript from scratch, including Node.js, React.js, and NOSQL database implementation with MongoDB.
+* Presented projects to audiences of varying sizes at meetups and events.
+* Helped to organise tech meetups and other local events.
+### Hanako Games
+### September 2014 - July 2015
+* Learned to use RPGMaker and GameMaker as required to produce game prototypes.
+* Provided supplemental writing and proofreading.
 
 ## Projects
 ### [Stagger](https://github.com/brosell1/Stagger)
@@ -35,25 +59,6 @@ I’m a trainee full stack Javascript developer and a member of the first cohort
 * Two games created using Gamemaker.
 * Bronzepunk is a point-and-click adventure game made for Ludum Dare 48.
 * Mijnlieff is an adaptation of a tic-tac-toe-like tabletop game.
-### [Otters-Blitz](https://github.com/brosell1/Otters-Blitz)
-* A JavaScript adaptation of the boardgame Ghost Blitz, created as part of a 24 hour hackathon.
-### [Rock-Paper-Scissors](https://github.com/brosell1/Rock-Paper-Scissors)
-* A game of Rock Paper Scissors, created as an introduction to JavaScript.
-### [Squashed Man](https://github.com/brosell1/Squashed-Man)
-* Simple example of using CSS media queries to change an element in HTML.
-
-## Relevant Experience
-### School of Code Bootcamp
-### August 2017 - January 2018
-* Used Agile methodology to complete projects and build effective teams.
-* Used pair programming and Scrum project management to improve code and develop soft skills.
-* Learned JavaScript from scratch, including Node.js, React.js, and NOSQL database implementation with MongoDB.
-* Presented projects to audiences of varying sizes at meetups and events.
-* Helped to organise tech meetups and other local events.
-### Hanako Games
-### September 2014 - July 2015
-* Learned to use RPGMaker and GameMaker as required to produce game prototypes.
-* Provided supplemental writing and proofreading.
 
 ## Other work experience
 ### Hana Comics
@@ -82,4 +87,4 @@ French A2: C
 GCSE x 12 A* - B
 
 ## Interests
-Games are a huge passion of mine. I love playing games that don’t just take place on a TV screen, and the meta-games that spring up when things get competitive. Besides that, I enjoy writing, cosplay, and playing bass guitar.
+Games are a huge passion of mine. I love playing games that don’t just take place on a TV screen, and the meta-games that spring up when things get competitive. Besides that, I enjoy writing, miniature painting, and playing bass guitar.
