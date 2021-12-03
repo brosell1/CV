@@ -21,6 +21,7 @@ I’m a front end Javascript developer with four years experience working in the
 ## Work Experience
 ### X2X Media Group - Software Engineer
 ### June 2020 - Present
+* Developed industry-standard apps used by Netflix, Disney, Warner Brothers, and more.
 * Worked with a small team to develop green field multimedia player project.
 * Built a video player with VideoJS for Chrome and Safari.
 * Built a desktop app using Electron.
