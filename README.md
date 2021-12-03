@@ -1,4 +1,4 @@
-# Ben Rosell
+# Ben Rosell - brosell@live.co.uk
 ## About me
 I’m a front end Javascript developer with four years experience working in the software industry. I was a member of the first cohort of the School of Code bootcamp and have since worked for Packt and X2X, in the publishing and film industries, respectively.
 
